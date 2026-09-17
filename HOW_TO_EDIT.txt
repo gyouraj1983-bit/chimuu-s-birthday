@@ -1,0 +1,20 @@
+CHIMU BIRTHDAY WEBSITE — FINAL PHOTO VERSION
+
+The song section and Our Friendship section have been removed.
+
+Current flow:
+1. Opening
+2. Birthday letter
+3. Four photos
+4. One last thing
+5. Final personal message
+
+Photos:
+- childhood.jpg = childhood photo
+- her-favourite.jpg = her favourite photo
+- my-favourite.jpg = your favourite photo
+- together.jpg = both of you together
+
+The her-favourite and my-favourite photos were swapped as requested.
+
+The final message is already included in index.html.
